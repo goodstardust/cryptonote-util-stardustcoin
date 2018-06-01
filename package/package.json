@@ -1,0 +1,20 @@
+{
+    "name": "cryptonote-util-stardustcoin",
+    "version": "1.0.2",
+    "main": "cryptonote",
+    "author": {
+        "name": "goodstardust",
+        "email": "goodstardust@users.noreply.github.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/goodstardust/node-cryptonote-util.git"
+    },
+    "dependencies": {
+        "bindings": "*"
+    },
+    "keywords": [
+        "cryptonight",
+        "cryptonote"
+    ]
+}
